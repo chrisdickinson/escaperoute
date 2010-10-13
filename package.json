@@ -1,6 +1,6 @@
 {
     "name": "escaperoute",
-    "version":"0.0.2",
+    "version":"0.0.3",
     "description": "A node.js router that implements reverse matching",
     "keywords": [ 
         "router",
@@ -8,7 +8,7 @@
     ],
     "author":"Chris Dickinson",
     "directories": {"lib": "./lib" },
-    "main": "./lib/escaperoute",
+    "main": "./lib/index",
     "license": [
         "New BSD License"
     ]
