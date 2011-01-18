@@ -1,6 +1,6 @@
 {
     "name": "escaperoute",
-    "version":"0.0.4",
+    "version":"0.0.5",
     "description": "A node.js router that implements reverse matching",
     "keywords": [ 
         "router",
